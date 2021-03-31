@@ -1,7 +1,7 @@
 // Store your names in 3 different variables and print your whole name.
 
 
-public class ZADACHA1 {
+public class Datatypes {
 	  public static void main(String[] args) {
 		  
 		  String s1 = "Petar ";
