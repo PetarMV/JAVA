@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class ZADACHA3 {
+public class Datatypes {
 
  	
 	int height;
