@@ -1,7 +1,7 @@
 //Print pine tree using asterisks in the console.
 
 
-public class ZADACHA4
+public class Datatypes {
 {
     public static void main(String... arg)
     {
