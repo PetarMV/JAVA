@@ -2,7 +2,7 @@
 
 
 
-public class ZADACHA1NEW {
+public class Datatypes {
 	  public static void main(String[] args) {
 		  String s1 = "Petar ";
 		  String s2 = "Viliyanov ";
